@@ -30,7 +30,7 @@ The system integrates a three-pipeline architecture for real-time financial data
 - Includes a **UI for interaction** with the financial advisory system.
 
 ### System Diagram
-![Financial Advisor LLM System](BPMN%20process%20flow.png)
+![Financial Advisor LLM System](process_flow.png)
 
 ## Key Challenges Overcome
 - **Balancing real-time performance and accuracy**: Optimized model responses to ensure rapid yet accurate financial insights.

@@ -82,11 +82,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to your branch (`git push origin feature-branch`).
 5. Open a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any questions, feel free to reach out:
 - **GitHub Issues**: Open an issue in the repository.
-
-![Financial Advisor LLM System](process%20flow.png)
